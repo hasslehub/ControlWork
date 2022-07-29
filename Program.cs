@@ -10,6 +10,7 @@
     }
     Console.Write("Результат: ");
     PrintArray(finalArray);
+    
 }
 
 void PrintArray(string[] currentArray)
